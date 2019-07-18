@@ -1,0 +1,28 @@
+body {
+
+}
+
+.container-fluid {
+
+}
+
+.glyphicon {
+    color: deepskyblue;
+}
+
+#MySearch {
+    width: 500px;
+    height: 40px;
+    padding: 10px;
+    font-size: 14px;
+}
+
+h4 {
+    margin: 20px;
+    text-align: center;
+    font-family: lora;
+}
+
+#dataObj {
+    margin-top: 10px;
+}
